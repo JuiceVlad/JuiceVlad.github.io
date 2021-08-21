@@ -84,6 +84,16 @@ Online resources:
 For a better experience when using our Service, we may require that you provide us with certain personal information.
 The information we request will be stored by us and used in accordance with this Privacy Policy.
 The application does use third-party services that may collect information used to identify you.
+
+Personal data:
+
+Email
+Password
+Unique user name
+Information about points and time
+User's gender
+Usage data.
+
 Link to the privacy policy of third-party service providers used by the application
 
 Firebase Realtime Database     https://firebase.google.com/terms/data-processing-terms
