@@ -97,8 +97,8 @@ Collected informations:
 Link to the privacy policy of third-party service providers used by the application
 
 Firebase Realtime Database     https://firebase.google.com/terms/data-processing-terms
-GoogleAPIs Terms of Service    https://developers.google.com/terms/
-Firebase Authentication        https://cloud.google.com/terms/
+GoogleAPIs Terms of Service    https://developers.google.com/terms
+Firebase Authentication        https://cloud.google.com/terms
 
 4) Security
 
