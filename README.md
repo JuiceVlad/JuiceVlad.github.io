@@ -87,12 +87,12 @@ The application does use third-party services that may collect information used 
 
 Collected informations:
 
-Email
-Password
-Unique user name
-Information about points and time
-User's gender
-Usage data.
+* Email
+* Password
+* Unique user name
+* Information about points and time
+* User's gender
+* Usage data.
 
 Link to the privacy policy of third-party service providers used by the application
 
